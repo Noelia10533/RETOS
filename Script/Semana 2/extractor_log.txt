@@ -1,0 +1,1 @@
+[2026-05-25 20:48:44.208032] XML generados: 46 y fallidos: 0

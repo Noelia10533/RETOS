@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ticket id="118640">
+    <titulo>Permite niños.</titulo>
+    <descripcion>Consumo capacidad oficial proyectos. Lado todas buenos ese.</descripcion>
+    <fecha_hora_inicial>2025-06-23 04:21:29</fecha_hora_inicial>
+    <categoria>Software</categoria>
+    <fecha_hora_final>2025-07-05 00:35:10</fecha_hora_final>
+    <id_cliente_fk2>673326</id_cliente_fk2>
+    <id_empleado_fk2>395036</id_empleado_fk2>
+    <alerta_sla dias_retraso="4">Cerrado con 4 días de retraso</alerta_sla>
+    <cliente>
+        <nombre>Brunilda</nombre>
+        <apellido1>Arenas</apellido1>
+        <apellido2>Juárez</apellido2>
+        <correo>acamps@example.org</correo>
+        <telefono>+34868701739</telefono>
+    </cliente>
+    <operador>
+        <nombre>Santos</nombre>
+        <correo>gutierrezandres@example.org</correo>
+    </operador>
+    <historial>
+        <mensaje autor="cliente" fecha="2025-09-19 11:59:43">Era casa ex el. Más conocimiento medidas datos fuerte cine izquierda. Principio hasta humana baja.</mensaje>
+    </historial>
+</ticket>
