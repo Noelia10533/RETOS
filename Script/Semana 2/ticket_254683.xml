@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ticket id="254683" cliente_enfadado="si">
+    <titulo>Proyectos blanco afirmó.</titulo>
+    <descripcion>Has fondo capaz frente estructura final fuerte. Puerto medio se imágenes lejos ha.</descripcion>
+    <fecha_hora_inicial>2025-02-02 13:54:48</fecha_hora_inicial>
+    <categoria>Software</categoria>
+    <fecha_hora_final>2025-02-09 10:20:03</fecha_hora_final>
+    <id_cliente_fk2>674382</id_cliente_fk2>
+    <id_empleado_fk2>261277</id_empleado_fk2>
+    <cliente>
+        <nombre>Pía</nombre>
+        <apellido1>Ocaña</apellido1>
+        <apellido2>Baños</apellido2>
+        <correo>corrallina@example.com</correo>
+        <telefono>+34746 857 174</telefono>
+    </cliente>
+    <operador>
+        <nombre>Leandra</nombre>
+        <correo>clementinafrutos@example.org</correo>
+    </operador>
+    <historial>
+        <mensaje autor="cliente" fecha="2025-02-24 02:31:20">Temas aparece resultados distintos pese. Capacidad derechos esto cuadro dar. Don medios elementos.</mensaje>
+        <mensaje autor="operador" fecha="2025-04-21 17:17:23">Pequeña santiago derecho grupos. Ninguna hemos quería. América interés ir visita.</mensaje>
+        <mensaje autor="cliente" fecha="2025-05-04 21:22:09">Trabajar asimismo cual niño agua final falta. Información mayor comunidad niños obstante partes. vergüenza</mensaje>
+    </historial>
+</ticket>

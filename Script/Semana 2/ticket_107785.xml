@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ticket id="107785" cliente_enfadado="si">
+    <titulo>Base dólares su violencia blanco.</titulo>
+    <descripcion>Título corazón opinión. Todo lucha personas lleva presente.</descripcion>
+    <fecha_hora_inicial>2026-04-11 09:52:06</fecha_hora_inicial>
+    <categoria>Redes</categoria>
+    <fecha_hora_final>2026-04-28 18:55:25</fecha_hora_final>
+    <id_cliente_fk2>908011</id_cliente_fk2>
+    <id_empleado_fk2>712268</id_empleado_fk2>
+    <alerta_sla dias_retraso="10">Cerrado con 10 días de retraso</alerta_sla>
+    <cliente>
+        <nombre>Visitación</nombre>
+        <apellido1>Becerra</apellido1>
+        <apellido2>Barranco</apellido2>
+        <correo>lorenzoaroca@example.net</correo>
+        <telefono>+34844 164 518</telefono>
+    </cliente>
+    <operador>
+        <nombre>Paola</nombre>
+        <correo>aviladelfina@example.net</correo>
+    </operador>
+    <historial>
+        <mensaje autor="cliente" fecha="2026-05-08 08:12:40">Demasiado iglesia habla historia dan. Partir recuerdo escuela local congreso lugar.</mensaje>
+        <mensaje autor="cliente" fecha="2026-05-22 06:32:20">Objeto esas calle debe hijos. Han ocho entrada vía objeto. incompetentes</mensaje>
+    </historial>
+</ticket>
